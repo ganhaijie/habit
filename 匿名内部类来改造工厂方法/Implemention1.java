@@ -1,4 +1,3 @@
-package com.leqee.test;
 
 public class Implemention1 implements Service {
 	public void method1() {
